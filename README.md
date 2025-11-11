@@ -3,7 +3,7 @@
 This is the place where I build data pipelines and break things 🔥
 
 - 🔭 I'm currently working on AI-powered data solutions at Presight
-- 🌱 I'm currently learning advanced LLMs, Vector Databases, and GenAI frameworks
+- 🌱 I'm currently learning advanced LLMs, RAG, Agentic AI, MCP, Vector Databases, and GenAI frameworks
 - 💬 Ask me about anything related to Azure Databricks, PySpark, MLOps, or Data Engineering
 - 📫 How to reach me: [@sargus-hub](https://github.com/sargus-hub) or [LinkedIn](https://linkedin.com/in/sravani-devi)
 - 🌐 Read more about my projects at [my portfolio](https://sargus-hub.github.io)
@@ -24,7 +24,7 @@ This is the place where I build data pipelines and break things 🔥
 
 ## 💼 Professional Summary
 
-Lead Data & AI Engineer with 10+ years of experience building enterprise-scale data solutions across Retail, Airlines, Oil & Petroleum, and Government sectors. Passionate about creating efficient, scalable data pipelines and implementing AI/ML solutions that drive real business impact.
+Lead Data & AI Engineer with 11 years of experience building enterprise-scale data solutions across Retail, Airlines, Oil & Petroleum, and Government sectors. Passionate about creating efficient, scalable data pipelines and implementing AI/ML solutions that drive real business impact.
 
 **Current Focus:** Modern cloud technologies, GenAI frameworks, MLOps practices, and advanced analytics with Databricks
 
@@ -73,15 +73,6 @@ Lead Data & AI Engineer with 10+ years of experience building enterprise-scale d
 - 🌟 **Best Performer** - Capgemini
 - 👍 **Pat on the Back** - Cognizant
 
-## 📈 This week I spent my time on
-
-```text
-Azure Databricks    8 hrs 38 mins  ████████████░░░░░  48%
-Python             6 hrs 27 mins  ██████████░░░░░░░  32%
-SQL                2 hrs 15 mins  ████░░░░░░░░░░░░░  11%
-YAML               1 hr 12 mins   ██░░░░░░░░░░░░░░░   6%
-Markdown           0 hrs 35 mins  █░░░░░░░░░░░░░░░░   3%
-```
 
 ## 🚀 Featured Projects
 
@@ -105,8 +96,8 @@ ML-based recommendation engine using KNN and SVM to match employees with relevan
 
 **Tech Stack:** KNN, SVM, Python, Scikit-learn
 
-### 🔹 Anomaly Detection for Financial Systems
-Real-time fraud detection and risk assessment models for government financial systems.
+### 🔹 Anomaly Detection of Employee data in HR Systems
+Real-time Anomaly detection in Employee Data across Government Organizations.
 
 **Tech Stack:** Azure ML, Anomaly Detection, Real-time Processing
 
