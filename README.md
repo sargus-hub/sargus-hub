@@ -5,7 +5,7 @@ This is the place where I build data pipelines and break things 🔥
 - 🔭 I'm currently working on AI-powered data solutions at Presight
 - 🌱 I'm currently learning advanced LLMs, RAG, Agentic AI, MCP, Vector Databases, and GenAI frameworks
 - 💬 Ask me about anything related to Azure Databricks, PySpark, MLOps, or Data Engineering
-- 📫 How to reach me: [@sargus-hub](https://github.com/sargus-hub) or [LinkedIn](https://linkedin.com/in/sravani-devi)
+- 📫 How to reach me: devisrav1479@gmail.com or sravanisargu@gmail.com or [LinkedIn](https://linkedin.com/in/sravani-devi)
 - 🌐 Read more about my projects at [my portfolio](https://sargus-hub.github.io)
 - ⚡ Fun fact: I love architecting data systems as much as exploring the latest LLMs! 💻✨
 
@@ -106,13 +106,6 @@ Migrated SAP BW data to Azure and built comprehensive Enterprise Data Lake with 
 
 **Tech Stack:** Azure Data Lake, ADF, SAP BW, Azure DevOps
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sargus-hub&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sargus-hub&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sargus-hub&theme=radical&hide_border=true)
 
 ## 💡 Current Focus Areas
 
@@ -124,8 +117,8 @@ Migrated SAP BW data to Azure and built comprehensive Enterprise Data Lake with 
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [sravani-devi](https://linkedin.com/in/sravani-devi)
-- 📧 Email: devisrav1479@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/sravani-devi](https://linkedin.com/in/sravani-devi)
+- 📧 Email: devisrav1479@gmail.com | sravanisargu@gmail.com
 - 📱 Phone: +971 569744164 | +91 7416293331
 - 🌐 Location: Abu Dhabi, United Arab Emirates
 
