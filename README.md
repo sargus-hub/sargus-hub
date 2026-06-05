@@ -2,8 +2,7 @@
 
 This is the place where I build data pipelines and break things 🔥
 
-- 🔭 I'm currently working on AI-powered data solutions at Presight
-- 🌱 I'm currently learning advanced LLMs, RAG, Agentic AI, MCP, Vector Databases, and GenAI frameworks
+- 🔭 I'm currently working as AI/Data Engineer at Presight
 - 💬 Ask me about anything related to Azure Databricks, PySpark, MLOps, or Data Engineering
 - 📫 How to reach me: devisrav1479@gmail.com or sravanisargu@gmail.com or [LinkedIn](https://linkedin.com/in/sravani-devi)
 - 🌐 Read more about my projects at [my portfolio](https://sargus-hub.github.io)
